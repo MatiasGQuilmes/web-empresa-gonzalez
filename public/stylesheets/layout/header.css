@@ -4,7 +4,7 @@
     justify-content: space-around
 }
 
-img.img-logo {
+.img-logo {
     height: 8rem;
 }
 
@@ -79,7 +79,10 @@ label.hamburguer.menu-btn {
         width: 100%;
         z-index: 10;
     }
-
+    .img-logo {
+        height: 8rem;
+        margin-left: 6rem;
+    }
     label.hamburguer.menu-btn{
         display: none
     }
@@ -111,7 +114,7 @@ label.hamburguer.menu-btn {
         top: 81px;
     }    
 
-    img.img-logo {
+    .img-logo {
         margin-left: 4rem;
         
     }

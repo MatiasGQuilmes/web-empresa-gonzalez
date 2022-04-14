@@ -2,6 +2,7 @@
 
 @import "layout/header.css";
 @import "layout/footer.css";
-@import "layout/main.css";
 
-@import "sections/slider.css"
+
+@import "sections/slider.css";
+@import "sections/quienessomos.css"
