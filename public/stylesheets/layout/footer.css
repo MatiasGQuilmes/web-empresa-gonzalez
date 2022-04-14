@@ -1,0 +1,34 @@
+.footer-container{
+    background-color: #00375B;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 
+}
+
+ img.logo-footer {
+   
+    height: 53px;
+
+}
+
+.contacto{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+.contacto-text {
+    padding: 10px 0;
+}
+
+
+.contacto h3{
+    color: white;
+    font-family: monospace;
+    font-weight: lighter;
+}
+
+.contacto a{
+    color: white;
+    font-family: monospace;
+    font-weight: lighter;
+}
